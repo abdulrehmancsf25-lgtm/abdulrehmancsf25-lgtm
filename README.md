@@ -17,4 +17,4 @@ I am a passionate Computer Science student at PUCIT, heavily focused on Data Str
 * **Databases:** SQL, MongoDB
 
 ### 📫 Get in Touch
-* **LinkedIn:** [https://www.linkedin.com/in/abdul-rehman-arshad-1b553a37b?utm_source=share_via&utm_content=profile&utm_medium=member_android]
+* **LinkedIn:** [https://www.linkedin.com/in/abdul-rehman-arshad-1b553a37b/]
