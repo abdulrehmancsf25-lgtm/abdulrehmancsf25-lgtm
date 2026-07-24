@@ -6,7 +6,7 @@ I am a passionate Computer Science student at PUCIT, heavily focused on Data Str
 * 🎓 **Education:** Computer Science student at PUCIT.
 * 💻 **Current Focus:** Sharpening algorithmic problem-solving skills in C++ and Python.
 * 🌱 **Future Goals:** Exploring and mastering Machine Learning (ML) and Data Science (DS).
-* 🤝 **Community:** Campus Ambassador at GeeksforGeeks & Volunteer at the FCIT Developers Club.
+* 🤝 **Community:** Campus Ambassador at GeeksforGeeks 
 
 ### 🧩 Coding Profiles
 * 🟡 **LeetCode:** [@abdulrehmanarshad](https://leetcode.com/u/abdulrehmanarshad/)
